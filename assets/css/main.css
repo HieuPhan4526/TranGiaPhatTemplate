@@ -288,7 +288,7 @@ a:hover{
 .footer-title h3::before{
     content: "";
     width: 26%;
-    border: 1px solid red;
+    border: 1px solid lightgray;
     position: absolute;
     left: 0;
     top: 17px;
@@ -296,7 +296,7 @@ a:hover{
 .footer-title h3::after{
     content: "";
     width: 26%;
-    border: 1px solid red;
+    border: 1px solid lightgray;
     position: absolute;
     top: 17px;
 }
